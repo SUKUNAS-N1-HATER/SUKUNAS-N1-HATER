@@ -1,4 +1,7 @@
-## Hi there 👋
+<p>this is just a excuse to show this edit 😜<p>
+
+
+https://github.com/user-attachments/assets/fe7f1da1-d70f-47be-8415-bc79236e45bf
 
 <!--
 **SUKUNAS-N1-HATER/SUKUNAS-N1-HATER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
